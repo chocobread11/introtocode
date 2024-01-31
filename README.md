@@ -1,2 +1,3 @@
 # introtocode
-# currently learning to use the github
+# currently learning to use the git
+
